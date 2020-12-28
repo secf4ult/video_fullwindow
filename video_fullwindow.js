@@ -11,9 +11,9 @@
 // @description:zh-CN 将视频全屏至网页
 // @icon
 // @noframes
-// @downloadURL       https://github.com/secf4ult/proj/release
-// @homepageURL       https://github.com/secf4ult/proj
-// @supportURL        https://github.com/secf4ult/proj/issues
+// @downloadURL       https://github.com/secf4ult/video_fullwindow/release
+// @homepageURL       https://github.com/secf4ult/video_fullwindow
+// @supportURL        https://github.com/secf4ult/video_fullwindow/issues
 // ==/UserScript==
 
 const v = document.body.querySelector("video");
