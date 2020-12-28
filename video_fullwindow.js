@@ -2,8 +2,8 @@
 // @name              Video Fullwindow
 // @name:zh-CN        视频网页全屏
 // @namespace         https://secf4ult.github.io
-// @match-exclude     *://*/*
-// @exclude           /.*/
+// @match             *://*/*
+// @exclude           *://*.youtube.com/*
 // @grant             none
 // @version           1.0
 // @author            secf4ult
@@ -11,7 +11,8 @@
 // @description:zh-CN 将视频全屏至网页
 // @icon
 // @noframes
-// @downloadURL       https://github.com/secf4ult/video_fullwindow/release
+// @downloadURL       https://raw.githubusercontent.com/secf4ult/video_fullwindow/main/video_fullwindow.js
+// @updateURL         https://raw.githubusercontent.com/secf4ult/video_fullwindow/main/video_fullwindow.js
 // @homepageURL       https://github.com/secf4ult/video_fullwindow
 // @supportURL        https://github.com/secf4ult/video_fullwindow/issues
 // ==/UserScript==
